@@ -6,9 +6,9 @@ namespace AoC.Day13
     /// --- Day 13: Knights of the Dinner Table ---
     /// </summary>
 	public class Solution : AbstractSolution
-	{
-		public override void Run()
-		{
-		}
-	}
+    {
+        public override void Run()
+        {
+        }
+    }
 }

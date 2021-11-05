@@ -119,7 +119,7 @@ namespace AoC.Day12
                 }
                 else if (ch == ']')
                 {
-                    break; 
+                    break;
                 }
                 else if (ch == '{')
                 {
