@@ -135,7 +135,7 @@ namespace AoC.Day12
                 }
                 else if (ch == '\"')
                 {
-                    var str = ReadField(reader);
+                    ReadField(reader);
                 }
             }
 
